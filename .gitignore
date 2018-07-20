@@ -1,5 +1,6 @@
 # JetBrains
 .idea
+package-lock.json
 
 # OS X
 .DS_Store*
@@ -19,3 +20,8 @@ Desktop.ini
 node_modules
 
 
+Würde android/ löschen
+Würde app/components/ löschen
+Würde app/config/ löschen
+Würde app/screens/ löschen
+Würde ios/ löschen
