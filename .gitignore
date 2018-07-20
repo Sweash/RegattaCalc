@@ -1,0 +1,21 @@
+# JetBrains
+.idea
+
+# OS X
+.DS_Store*
+Icon\r\r
+._*
+
+# Windows
+Thumbs.db
+thumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+# npm
+node_modules
+
+
